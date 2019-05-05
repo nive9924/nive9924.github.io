@@ -1,0 +1,30 @@
+body{
+	background-color: #b2c7ea;
+	background-image: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover;
+	height: 500px;
+	padding-top: 200px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+h1{
+   color:white;
+   position: center;
+   
+}
+.btn-secondary{
+
+	background-color:#b4c9ea; 
+	color: #406eb7;
+	
+	
+	margin-top: 20px;
+	
+}
+.btn-secondary:hover{
+	background-color: #090c11;
+	color: #666768;
+}
+ 
